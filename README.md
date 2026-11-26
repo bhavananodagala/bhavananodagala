@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chandra Bhavana Nodagala</h1>
-<h3 align="center">Aspiring QA Engineer | Manual Testing | Web Application Testing | SQL | Postman | B.Tech CSE 2026</h3>
+<h3 align="center">Aspiring QA Engineer | Manual Testing | API Testing | SQL | Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavananodagala&label=Profile%20views&color=0e75b6&style=flat" alt="bhavananodagala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavananodagala" alt="bhavananodagala" /></a> </p>
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **Playwright for Test Automation**
 
-- 💬 Ask me about **Manual Testing, API Testing**
+- 💬 Ask me about **Manual Testing, Functional Testing, Web Application Testing, UI Testing, Positive Testing, Negative Testing, Test Case Design, Test Case Execution, Bug Reporting, Defect Reporting, SDLC, STLC, Agile, Waterfall Model, V-Model, Spiral Model, Verification & Validation, Black Box Testing, White Box Testing, Static Testing, Dynamic Testing, Smoke Testing, Sanity Testing, Bug Life Cycle, Severity, Priority, OOP Fundamentals, API Testing using Postman, SQL, Python, HTML5, CSS, Git, GitHub, VS Code, MS Excel**
 
 - 📫 How to reach me **bhavananodagala59@gmail.com**
 
