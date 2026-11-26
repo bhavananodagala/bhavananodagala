@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Playwright for Test Automation**
 
-- 💬 Ask me about **Manual Testing, Functional Testing, Web Application Testing, UI Testing, Positive Testing, Negative Testing, Test Case Design, Test Case Execution, Bug Reporting, Defect Reporting, SDLC, STLC, Agile, Waterfall Model, V-Model, Spiral Model, Verification & Validation, Black Box Testing, White Box Testing, Static Testing, Dynamic Testing, Smoke Testing, Sanity Testing, Bug Life Cycle, Severity, Priority, OOP Fundamentals, API Testing using Postman, SQL, Python, HTML5, CSS, Git, GitHub, VS Code, MS Excel**
+- 💬 Ask me about **Manual Testing, Functional Testing, Web Application Testing, UI Testing, Test Case Design & Execution, Positive & Negative Testing, Bug Reporting, SDLC, STLC, Agile, Bug Life Cycle, Smoke & Sanity Testing, Black Box Testing, White Box Testing, Verification & Validation, Severity & Priority, API Testing using Postman, SQL, Python, OOP Fundamentals, HTML5, CSS, Git, GitHub**
 
 - 📫 How to reach me **bhavananodagala59@gmail.com**
 
